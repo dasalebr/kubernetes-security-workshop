@@ -1,5 +1,7 @@
 # kubernetes-security-workshop
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/21735c5f-a3d2-4948-83de-b238546c687e.svg?orgId=288883884012)](https://app.soluble.cloud/repos/details/github.com/dasalebr/kubernetes-security-workshop?orgId=288883884012)  
+
 # Table of contents
 1. [Introduction](#introduction)
 2. [Setup](#setup)
